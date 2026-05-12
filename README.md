@@ -31,8 +31,8 @@ applied-data-science-case-studies/
     └── heart.csv
 
 
-### Portfolio Overview
-### Portfolio 1: E-commerce Data Cleaning and Exploratory Data Analysis
+###Portfolio Overview
+###Portfolio 1: E-commerce Data Cleaning and Exploratory Data Analysis
 
 This section focuses on understanding and preparing an e-commerce dataset for analysis. The work begins with raw customer and product-related data, then applies cleaning, filtering, descriptive statistics, and visual exploration.
 
@@ -53,7 +53,7 @@ Analytical value:
 
 This part demonstrates the importance of preparing data before modelling or decision-making. It shows that poor-quality records, missing values, and outliers can distort patterns in customer behaviour and lead to misleading conclusions.
 
-### Portfolio 2: E-commerce Rating Prediction
+###Portfolio 2: E-commerce Rating Prediction
 
 This section extends the e-commerce analysis by using machine learning to predict customer ratings. The work applies regression modelling to understand how different variables may influence customer review scores.
 
@@ -74,7 +74,7 @@ Analytical value:
 
 This part shows how predictive modelling can be used to estimate customer satisfaction. It also highlights that model performance depends heavily on feature quality, data preparation, and responsible use of customer data.
 
-### Portfolio 3: Mobile Price Classification
+###Portfolio 3: Mobile Price Classification
 
 This section applies classification techniques to predict mobile phone price ranges based on technical specifications. The analysis explores which product features are most closely associated with price category.
 
@@ -95,8 +95,7 @@ Analytical value:
 
 This part demonstrates how machine learning can classify products into market segments. It shows how technical specifications can help explain price differences and support decisions related to product strategy, pricing, and competitive positioning.
 
-###
-Portfolio 4: Heart Disease Prediction
+###Portfolio 4: Heart Disease Prediction
 
 This section applies classification models to a healthcare dataset to predict the likelihood of heart disease. The analysis includes data exploration, categorical encoding, feature relationship analysis, model training, and performance evaluation.
 
